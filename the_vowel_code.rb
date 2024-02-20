@@ -1,3 +1,5 @@
+
+
 def encode(sentence)
   vowel_to_number = {'a' => '1', 'e' => '2', 'i' => '3', 'o' => '4', 'u' => '5'}
 
@@ -8,3 +10,5 @@ end
 
 # Example usage:
 puts encode("Jan Dorotan")
+
+# OUTPUT ---->>   J1n D4r4t1n
